@@ -1,5 +1,6 @@
 Kali Linux 
 
+- cat /etc/os-release
 - whoami = kalilinuxuser 
 - hostname = kalilinux
 - sudo whoami = root

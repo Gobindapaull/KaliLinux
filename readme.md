@@ -10,4 +10,5 @@ Kali Linux
 - ls -l
 - cd Videos
 - cd /
+- cd ~
 - ifconfig

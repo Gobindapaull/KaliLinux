@@ -13,3 +13,4 @@ Kali Linux
 - cd /
 - cd ~
 - ifconfig
+- ping google.com

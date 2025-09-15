@@ -14,3 +14,4 @@ Kali Linux
 - cd ~
 - ifconfig
 - ping google.com
+- Os detection = nmap -sV ip_address_of_server
